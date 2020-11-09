@@ -1,2 +1,2 @@
-# pypthon
+# python
 python programs
